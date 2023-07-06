@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İKNCalsat", "İKNCalsat\İKNCalsat.csproj", "{2E03E846-F55B-40FA-83AF-2BF322686521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E03E846-F55B-40FA-83AF-2BF322686521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E03E846-F55B-40FA-83AF-2BF322686521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E03E846-F55B-40FA-83AF-2BF322686521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E03E846-F55B-40FA-83AF-2BF322686521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51870B68-069F-449F-9D01-C5D897FE3E40}
+	EndGlobalSection
+EndGlobal
